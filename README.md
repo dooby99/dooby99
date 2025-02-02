@@ -21,15 +21,15 @@
 
 ## 📌 Projects
 ### 🇰🇷 대한민국 날씨/자연재해 대시보드 (**좋雲데이**)
-🔹 **설명:** 기상청 API를 활용하여 실시간 기상 특보를 수집하고, AWS 기반 데이터 파이프라인을 구축하여 시각화하였습니다. 
-🔹 **수행 역할:** 기상 특보 데이터 수집, AWS Lambda를 통한 Slack 알람 발송, Airflow DAG 자동화, Tableau 및 Superset을 활용한 시각화
-🔹 **기술 스택:** Airflow, AWS Lambda, Docker, Redshift, Tableau, Superset  
+🔹 **설명:** 기상청 API를 활용하여 실시간 기상 특보를 수집하고, AWS 기반 데이터 파이프라인을 구축하여 시각화하였습니다.   
+🔹 **수행 역할:** 기상 특보 데이터 수집, AWS Lambda를 통한 Slack 알람 발송, Airflow DAG 자동화, Tableau 및 Superset을 활용한 시각화   
+🔹 **기술 스택:** Airflow, AWS Lambda, Docker, Redshift, Tableau, Superset    
 🔹 **GitHub:** [코드 보기](https://github.com/dooby99/nice_cloud_day)
-
+ 
 ### 🎭 공연 정보 데이터 파이프라인 구성 (**SHOWCHECK**)
-🔹 **설명:** 공연 정보 및 날씨 데이터를 수집하여 분석하고, 대시보드에서 시각화하는 데이터 파이프라인을 구축했습니다.
-🔹 **수행 역할:** KOPIS API를 활용한 공연 데이터 수집, AWS S3 및 Redshift를 통한 데이터 저장 및 분석, Preset을 활용한 대시보드 구축
-🔹 **기술 스택:** Airflow, Redshift, Preset  
+🔹 **설명:** 공연 정보 및 날씨 데이터를 수집하여 분석하고, 대시보드에서 시각화하는 데이터 파이프라인을 구축했습니다.   
+🔹 **수행 역할:** KOPIS API를 활용한 공연 데이터 수집, AWS S3 및 Redshift를 통한 데이터 저장 및 분석, Preset을 활용한 대시보드 구축    
+🔹 **기술 스택:** Airflow, Redshift, Preset    
 🔹 **GitHub:** [코드 보기](https://github.com/dooby99/Performance-information-analysis)
 
 ### ⛽ 국내 유가 정보 분석 대시보드 (**OIL PRICE DATA**)
