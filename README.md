@@ -33,27 +33,27 @@
 🔹 **GitHub:** [코드 보기](https://github.com/dooby99/Performance-information-analysis)
 
 ### ⛽ 국내 유가 정보 분석 대시보드 (**OIL PRICE DATA**)
-🔹 **설명:** API 데이터를 활용하여 지역별, 브랜드별 유가 정보를 분석하고, 대시보드에서 시각화하였습니다. 
-🔹 **수행 역할:** 오피넷 API 데이터 수집, Snowflake 테이블 업데이트 자동화, S3 적재 및 데이터 파이프라인 구축, Preset 대시보드 구현
-🔹 **기술 스택:** Snowflake, AWS S3, Preset  
+🔹 **설명:** API 데이터를 활용하여 지역별, 브랜드별 유가 정보를 분석하고, 대시보드에서 시각화하였습니다.     
+🔹 **수행 역할:** 오피넷 API 데이터 수집, Snowflake 테이블 업데이트 자동화, S3 적재 및 데이터 파이프라인 구축, Preset 대시보드 구현    
+🔹 **기술 스택:** Snowflake, AWS S3, Preset    
 🔹 **GitHub:** [코드 보기](https://github.com/dooby99/Oil-Price-Data)
 
 ### 🐶 애완견 피부 질환 AI 진단 어플리케이션 (**댕댕픽쳐스**)
-🔹 **설명:** U-Net 모델을 활용하여 반려견 피부 질환을 진단하는 AI 모델을 개발하고, 안드로이드 애플리케이션을 구현하였습니다. 
-🔹 **수행 역할:** 반려견 피부 질환 진단 AI 모델 학습 및 최적화, TFLite 변환을 통한 모바일 앱 적용, 사용자의 위치 기반 동물병원 정보 제공
-🔹 **기술 스택:** PyTorch, TensorFlow, Kotlin, Android  
+🔹 **설명:** U-Net 모델을 활용하여 반려견 피부 질환을 진단하는 AI 모델을 개발하고, 안드로이드 애플리케이션을 구현하였습니다.    
+🔹 **수행 역할:** 반려견 피부 질환 진단 AI 모델 학습 및 최적화, TFLite 변환을 통한 모바일 앱 적용, 사용자의 위치 기반 동물병원 정보 제공    
+🔹 **기술 스택:** PyTorch, TensorFlow, Kotlin, Android      
 🔹 **GitHub:** [코드 보기](https://github.com/dooby99/DogMedical)
 
 ### 🏛 대구 전시회 정보 제공 웹사이트 (**BODA**)
-🔹 **설명:** Spring Boot를 활용하여 대구 지역의 전시회 정보를 제공하는 웹사이트를 개발하였습니다. 
-🔹 **수행 역할:** 대구 전시회 API 연동, 사용자 로그인 및 회원 관리, 전시회 검색 및 필터링 기능, 커뮤니티 게시판 구현
-🔹 **기술 스택:** Spring Boot, MySQL, Java, JavaScript  
+🔹 **설명:** Spring Boot를 활용하여 대구 지역의 전시회 정보를 제공하는 웹사이트를 개발하였습니다.     
+🔹 **수행 역할:** 대구 전시회 API 연동, 사용자 로그인 및 회원 관리, 전시회 검색 및 필터링 기능, 커뮤니티 게시판 구현     
+🔹 **기술 스택:** Spring Boot, MySQL, Java, JavaScript    
 🔹 **GitHub:** [코드 보기](https://github.com/dooby99/ExhibitionProject)
 
-### 🚴 따릉이 위치 및 꽃가루 정보 웹사이트 (**BIKE & Pollen SERVICE**)
-🔹 **설명:** Django를 활용하여 따릉이 위치 및 실시간 꽃가루 농도 정보를 제공하는 웹사이트를 구축하였습니다. 
-🔹 **수행 역할:** 따릉이 API 및 기상청 꽃가루 API 연동, 지도 기반 시각화, 사용자 인증 및 위치 기반 추천 기능
-🔹 **기술 스택:** Django, API, JavaScript, SQLite  
+### 🚴 따릉이 위치 및 꽃가루 정보 웹사이트 (**BIKE & Pollen SERVICE**)   
+🔹 **설명:** Django를 활용하여 따릉이 위치 및 실시간 꽃가루 농도 정보를 제공하는 웹사이트를 구축하였습니다.     
+🔹 **수행 역할:** 따릉이 API 및 기상청 꽃가루 API 연동, 지도 기반 시각화, 사용자 인증 및 위치 기반 추천 기능    
+🔹 **기술 스택:** Django, API, JavaScript, SQLite    
 
 ---
 
