@@ -23,9 +23,9 @@
 ### 🏁 서울시 상권 추천 사이트 (**Pick On**)
 🔹 **설명:** 서울 창업 경진대회 - 서울시 공공 데이터를 활용하여 데이터 전처리 및 XGboost를 활용 상권지 추천모델 및 Django활용 백엔드 구축하였습니다.   
 🔹 **수행 역할:** 서울 내 소상공 관련 데이터 수집 및 정제, kafka를 활용 사용자 실시간 데이터 반영, XGboost활용 예측 모델, Airflow DAG 자동화, Django를 활용한 백엔드 구축, AWS활용 서비스
-🔹 **기술 스택:** Airflow, AWS , Docker, Django, Kafka, Next.js    
-🔹 **GitHub:** [코드 보기](https://github.com/dooby99/Seoul_data_Web)    
-🔹 **Project:** [상세 보기](https://www.notion.so/PickOn-1e49c808abf080f6837de6c4d771d24d)
+🔹 **기술 스택:** Airflow, AWS , Docker, Django, Kafka, Next.js      
+🔹 **GitHub:** [코드 보기](https://github.com/dooby99/Seoul_data_Web)      
+🔹 **Project:** [상세 보기](https://www.notion.so/PickOn-1e49c808abf080f6837de6c4d771d24d)  
 
 ### 🇰🇷 대한민국 날씨/자연재해 대시보드 (**좋雲데이**)
 🔹 **설명:** 기상청 API를 활용하여 실시간 기상 특보를 수집하고, AWS 기반 데이터 파이프라인을 구축하여 시각화하였습니다.   
