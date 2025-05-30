@@ -78,5 +78,5 @@
 
 ---
 
-🌟 **프로젝트에 대해 더 많은 정보는 [Notion](https://fanatical-dime-931.notion.site/KWAK-DOYOUNG-ccd2819bc4b3495c977ceafd8ac06f96?pvs=74)에서 확인하세요!**
+🌟 **프로젝트에 대해 더 많은 정보는 [Notion](https://www.notion.so/PickOn-1e49c808abf080f6837de6c4d771d24d?source=copy_link)에서 확인하세요!**
 
